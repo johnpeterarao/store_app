@@ -25,3 +25,18 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* global.css */
+html {
+  color-scheme: light;
+  background-color: #f9fafb; /* light gray background */
+}
+
+body {
+  color: #111; /* dark text */
+  background-color: #f9fafb;
+}
+
+header nav a {
+  color: #ffffff;
+}
